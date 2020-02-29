@@ -1,0 +1,5 @@
+// Babel is a loader, inside of webpack that converts javascript files into older javascript files
+
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
